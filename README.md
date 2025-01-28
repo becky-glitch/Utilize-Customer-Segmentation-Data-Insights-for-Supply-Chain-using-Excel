@@ -10,6 +10,9 @@
 
  ### Project Overview
  This project empowers SmartHome Solutions Inc. to optimize production planning and supply chain efficiency by leveraging customer data for segmentation and profiling. Utilizing Microsoft Excel, it drives data-driven decisions to reduce inefficiencies, align production with demand, and minimize excess inventory.
+ 
+![89e5b99d-6deb-4a57-b0c6-8fe98454a4bd](https://github.com/user-attachments/assets/892597aa-3eef-4ae8-a2ec-023c76fd6602)
+
 ### Business Introduction
 SmartHome Solutions Inc. is a globally recognized industry leader in the field of consumer electronics and household appliances. Established in 1995, the company has consistently pushed the boundaries of innovation, earning a reputation for cutting-edge technology and unparalleled product quality. Over the years, SmartHome Solutions has garnered numerous industry accolades, including the prestigious Innovation Award at the International Electronics Show for its groundbreaking smart home appliances.
 What sets SmartHome Solutions apart is its commitment to excellence and a diverse product portfolio that caters to the modern consumer's evolving needs. From their pioneering line of energy-efficient smart refrigerators to their state-of-the-art home entertainment systems, the company has consistently delivered products that enhance the quality of life for millions of customers worldwide. With a global presence spanning over two decades, SmartHome Solutions has become synonymous with innovation, reliability, and a deep understanding of consumer preferences.
@@ -96,10 +99,6 @@ STEPS
 - Sales Variability and Seasonality: Sales varies for different month when in different locations by different Customer Types.
 
 
-| heading | heading2 |
-| --------|----------|
-| content | content2 |
-| Excel   | Excel2   |  
 
 
 
